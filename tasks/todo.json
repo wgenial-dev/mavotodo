@@ -1,11 +1,11 @@
 {
 	"task": [
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Task #1"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Task #2"
 		},
 		{

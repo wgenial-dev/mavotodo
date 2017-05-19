@@ -17,8 +17,7 @@
 			"taskTitle": "Task #4"
 		},
 		{
-			"done": false,
-			"taskTitle": "Task #5"
+			"done": false
 		}
 	]
 }

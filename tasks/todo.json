@@ -7,6 +7,10 @@
 		{
 			"done": false,
 			"taskTitle": "Task #2"
+		},
+		{
+			"done": true,
+			"taskTitle": "Task #3"
 		}
 	]
 }
